@@ -1,4 +1,4 @@
-import 'package:my_background_location/my_background_location.dart';
+import 'package:my_bg/background_location.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

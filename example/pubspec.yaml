@@ -14,7 +14,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  my_background_location:
+  my_bg:
     path: ../
 
 # For information on the generic Dart part of this file, see the
