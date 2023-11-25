@@ -10,7 +10,7 @@ class BackgroundLocation {
   // The channel to be used for communication.
   // This channel is also refrenced inside both iOS and Abdroid classes
   //static const MethodChannel _channel =
-        MethodChannel('com.mamunru.my_1_background_location/methods');
+  //      MethodChannel('com.mamunru.my_1_background_location/methods');
 
   /// Stop receiving location updates
   static stopLocationService() async {
